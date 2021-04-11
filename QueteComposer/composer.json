@@ -1,0 +1,14 @@
+{
+    "name": "anais/quete_composer",
+    "description": "Projet quete composer",
+    "authors": [
+        {
+            "name": "Anais",
+            "email": "anais.berducat@outlook.fr"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
